@@ -1,0 +1,21 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "department": "Engineering",
+            "performance": 85,
+            "productivity": 92,
+            "projectsCompleted": 12
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "department": "Design",
+            "performance": 90,
+            "productivity": 95,
+            "projectsCompleted": 15
+        }
+        
+    ]
+}
